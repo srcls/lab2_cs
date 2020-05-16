@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "lab2": {
+      "commandName": "Project",
+      "commandLineArgs": "-p 8000"
+    }
+  }
+}
